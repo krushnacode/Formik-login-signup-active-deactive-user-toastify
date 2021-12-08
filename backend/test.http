@@ -1,0 +1,6 @@
+POST http://localhost:4000/app/user/61b07bf0d9608653c9fabdb2
+Content-Type: application/json
+
+{
+    "isActive":"false"
+}   
